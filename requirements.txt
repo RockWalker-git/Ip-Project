@@ -1,2 +1,4 @@
-dask
 pandastable
+tkinter
+pandas
+matplotlib
