@@ -1,4 +1,0 @@
-pandastable
-tkinter
-pandas
-matplotlib
